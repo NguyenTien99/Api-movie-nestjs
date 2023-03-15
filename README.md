@@ -1,3 +1,8 @@
+- Tên: Nguyễn Minh Tiến
+- Project: Api-Movie
+- Youtube: https://www.youtube.com/watch?v=EiixKEV0PIc
+- Postman: https://drive.google.com/file/d/1gNqB26X5frk4jNvHEIj68wUjMNK8hqtR/view?usp=sharing
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
