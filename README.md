@@ -1,5 +1,6 @@
 - Tên: Nguyễn Minh Tiến
 - Project: Api-Movie
+- Github: https://github.com/NguyenTien99/Api-movie-nestjs
 - Youtube: https://www.youtube.com/watch?v=EiixKEV0PIc
 - Postman: https://drive.google.com/file/d/1gNqB26X5frk4jNvHEIj68wUjMNK8hqtR/view?usp=sharing
 
